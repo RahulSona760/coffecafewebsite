@@ -15,6 +15,8 @@ Features
 
 
  Tech Stack
+
+ 
 HTML5 – Structure and content
 
 CSS3 – Styling and responsive layout
