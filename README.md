@@ -12,3 +12,13 @@ Features
 📱 Responsive Design – Optimized for all screen sizes (desktop, tablet, mobile).
 
 🎨 Modern Animations – Smooth scrolling and fade-in effects using CSS/JS.
+
+
+ Tech Stack
+HTML5 – Structure and content
+
+CSS3 – Styling and responsive layout
+
+JavaScript – Interactivity and animations
+
+Bootstrap, Google Fonts, Font Awesome
